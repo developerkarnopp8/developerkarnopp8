@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Gustavo Karnopp
 
 💻 Desenvolvedor Front-end focado em Vue, Angular e projetos modernos  
-🎯 Criador de sistemas como EasyCV, Fantasy e Econfirma  
+🎯 Criador de sistemas como EasyCV, Panela Team e E-confirma  
 🚀 Buscando sempre evoluir como dev e compartilhar conhecimento
 
 ---
@@ -9,7 +9,7 @@
 ### 📌 Projetos em destaque
 
 - [EasyCV](https://github.com/developerkarnopp8/easycv) — Gerador de currículos online
-- [Econfirma](https://github.com/developerkarnopp8/econfirma) — Sistema de confirmação de presença
+- [E-confirma](https://github.com/developerkarnopp8/econfirma) — Sistema de confirmação de presença
 - [Panela Team](https://github.com/developerkarnopp8/panela-team) — Aplicativo de eventos de jogos
 
 ---
@@ -25,6 +25,6 @@
 
 ### 📫 Como me encontrar
 
-- 🌐 [Portfólio](https://seuportfolio.vercel.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/seuuser)
-- 📧 gustavo@email.com
+- 🌐 [Portfólio](https://gustavokarnopp.vercel.app/home)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-karnopp-039b8916b/)
+- 📧 developer.karnopp@gmail.com
