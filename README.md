@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Gustavo Karnopp
 
-<!--
-**developerkarnopp8/developerkarnopp8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-end focado em Vue, Angular e projetos modernos  
+🎯 Criador de sistemas como EasyCV, Fantasy e Econfirma  
+🚀 Buscando sempre evoluir como dev e compartilhar conhecimento
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projetos em destaque
+
+- [EasyCV](https://github.com/developerkarnopp8/easycv) — Gerador de currículos online
+- [Econfirma](https://github.com/developerkarnopp8/econfirma) — Sistema de confirmação de presença
+- [Panela Team](https://github.com/developerkarnopp8/panela-team) — Aplicativo de eventos de jogos
+
+---
+
+### 🛠️ Tecnologias que uso
+
+![Vue](https://img.shields.io/badge/-Vue.js-41B883?logo=vue.js&logoColor=white&style=flat)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+
+---
+
+### 📫 Como me encontrar
+
+- 🌐 [Portfólio](https://seuportfolio.vercel.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/seuuser)
+- 📧 gustavo@email.com
