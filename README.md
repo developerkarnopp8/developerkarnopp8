@@ -1,30 +1,48 @@
-## 👋 Olá! Eu sou o Gustavo Karnopp
+<h1 align="center">👋 Olá, eu sou o Gustavo Karnopp</h1>
 
-💻 Desenvolvedor Front-end focado em Vue, Angular e projetos modernos  
-🎯 Criador de sistemas como EasyCV, Panela Team e E-confirma  
-🚀 Buscando sempre evoluir como dev e compartilhar conhecimento
+<p align="center">
+Desenvolvedor Front-end com 4+ anos de experiência, focado em <b>Vue.js</b> e <b>Angular</b> — construindo interfaces que resolvem problemas reais, não só telas bonitas.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+---
+
+### 🎯 Foco atual
+Sistemas de agendamento, automação de fluxos de confirmação de presença e ferramentas que economizam tempo de times pequenos.
 
 ---
 
 ### 📌 Projetos em destaque
 
-- [EasyCV](https://github.com/developerkarnopp8/easycv) — Gerador de currículos online
-- [E-confirma](https://github.com/developerkarnopp8/econfirma) — Sistema de confirmação de presença
-- [Panela Team](https://github.com/developerkarnopp8/panela-team) — Aplicativo de eventos de jogos
+**[AmoraEventos](https://github.com/developerkarnopp8/AmoraRunnning)** — [[ADICIONAR: uma frase sobre o que o AmoraEventos resolve ]]
+> Projeto principal, com deploy próprio (Docker + nginx em VPS) e pipeline ativo de contribuições.
+`TypeScript` `Docker`
+
+**[EasyCV](https://github.com/developerkarnopp8/EasyCV)** — Gerador de currículos online.
+> Permite montar e exportar um currículo profissional direto no navegador, com preview em tempo real — sem precisar de Word ou Canva.
+`Vue.js` `Tailwind CSS`
+
+**[Panela Team](https://github.com/developerkarnopp8/panela-team)** — Aplicativo de gestão de eventos de jogos entre amigos.
+> Organiza times, presença e agenda de partidas em um único lugar, para grupos que hoje dependem de grupo de WhatsApp.
+`TypeScript` `Vue.js`
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 📊 GitHub Stats
 
-![Vue](https://img.shields.io/badge/-Vue.js-41B883?logo=vue.js&logoColor=white&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=developerkarnopp8&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerkarnopp8&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### 📫 Como me encontrar
-
-- 🌐 [Portfólio](https://gustavokarnopp.vercel.app/home)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-karnopp-039b8916b/)
-- 📧 developer.karnopp@gmail.com
+🌐 [Portfólio](https://gustavokarnopp.com.br) · 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-karnopp/) · ✉️ developer.karnopp@gmail.com
