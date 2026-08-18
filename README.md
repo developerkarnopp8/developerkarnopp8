@@ -21,8 +21,8 @@ Sistemas de agendamento, automação de fluxos de confirmação de presença e f
 
 ### 📌 Projetos em destaque
 
-**[AmoraEventos](https://github.com/developerkarnopp8/AmoraRunnning)** — [[ADICIONAR: uma frase sobre o que o AmoraEventos resolve ]]
-> Projeto principal, com deploy próprio (Docker + nginx em VPS) e pipeline ativo de contribuições.
+**[AmoraEventos](https://github.com/developerkarnopp8/AmoraRunnning)** — Plataforma de inscrições para eventos esportivos.
+> Reúne corridas, trails, triathlons e ciclismo em um só lugar, permitindo que atletas encontrem e se inscrevam em eventos por todo o Brasil. Projeto principal, com deploy próprio (Docker + nginx em VPS) e pipeline ativo de contribuições.
 `TypeScript` `Docker`
 
 **[EasyCV](https://github.com/developerkarnopp8/EasyCV)** — Gerador de currículos online.
@@ -37,9 +37,9 @@ Sistemas de agendamento, automação de fluxos de confirmação de presença e f
 
 ### 📊 GitHub Stats
 
+<!-- Gerado automaticamente via GitHub Actions (lowlighter/metrics) — não depende de serviço externo instável -->
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=developerkarnopp8&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerkarnopp8&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/developerkarnopp8/developerkarnopp8/main/github-metrics.svg" />
 </p>
 
 ---
